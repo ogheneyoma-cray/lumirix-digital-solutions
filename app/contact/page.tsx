@@ -1,3 +1,6 @@
+"use client";
+
+
 export default function ContactPage() {
   return (
     <main className="bg-brand-dark text-white min-h-screen pt-32 pb-24 px-6 font-body">
